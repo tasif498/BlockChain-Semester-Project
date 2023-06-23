@@ -1,4 +1,4 @@
-# BlockChain-Semester-Project - Readme
+# BlockChain-Semester-Project 
 
 ## Project Description
 
